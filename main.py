@@ -6,8 +6,8 @@ import requests
 import time
 
 
-appID = '20210519000833325'
-secretKey = '_jt1WVvWNN88G_zXhafM'
+appID = 'xxx'
+secretKey = 'xxx'
 apiURL = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 
 
